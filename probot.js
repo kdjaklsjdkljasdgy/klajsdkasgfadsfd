@@ -4822,4 +4822,4 @@ client.on('message', message => {
   });
 
 
-client.login(process.env.BOT_TOKEN);
+client.login("Njg5NTAwODA1MDM1ODUxODA3.XnDxtw.eDntUzDNBmq4ILmHDtixVIe154w");
